@@ -12,6 +12,6 @@ _links to our favorite Data Science resources on the web_
 
 ---
 ### Python Notebooks
-_a collection of jupyter notebooks covering a variety of data science related topics_
+_a collection of Jupyter Notebooks covering a variety of Data Science related topics_
 
 
